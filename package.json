@@ -1,0 +1,23 @@
+{
+  "name": "react-native-button",
+  "version": "0.1.0",
+  "description": "A React Native component works like UIButton",
+  "main": "button.js",
+  "scripts": {
+    "start": "react-native start"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "button"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yu-Liang/react-native-button.git"
+  },
+  "author": "Redding Yu",
+  "license": "MIT"
+}

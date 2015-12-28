@@ -1,9 +1,9 @@
-# react-native-button
-A React Native component works like UIButton
+/**
+ * Sample React Native App
+ * https://github.com/facebook/react-native
+ */
+'use strict';
 
-## Example
-
-```javascript
 import React from 'react-native';
 let {
     Component,
@@ -18,14 +18,14 @@ class AwesomeProject extends Component {
     render() {
         return (
             <View style={styles.container}>
-	            <Button 
-	                title={'Touch me'} 
-	                normalTitleStyle={{color: 'yellow'}}
-	                helightTitleStyle={{color: 'red'}}
-	                selectTitleStyle={{color: 'black'}} 
-	                selected={true}
-	                onPress={()=>{console.log('on press')}} />
-          	</View>
+            <Button 
+                title={'Touch me'} 
+                normalTitleStyle={{color: 'yellow'}}
+                helightTitleStyle={{color: 'red'}}
+                selectTitleStyle={{color: 'black'}} 
+                selected={true}
+                onPress={()=>{console.log('on press')}} />
+          </View>
         );
     }
 }
@@ -40,8 +40,3 @@ let styles = StyleSheet.create({
 });
 
 AppRegistry.registerComponent('AwesomeProject', () => AwesomeProject);
-
-```
-
-# License
-(c) 2015 Redding Yu. MIT License.
