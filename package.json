@@ -1,6 +1,6 @@
 {
   "name": "react-native-helight-button",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A React Native component works like UIButton",
   "main": "button.js",
   "scripts": {
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yu-Liang/react-native-button.git"
+    "url": "https://github.com/Yu-Liang/react-native-helight-button.git"
   },
   "author": "Redding Yu",
   "license": "MIT"
