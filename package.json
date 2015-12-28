@@ -1,5 +1,5 @@
 {
-  "name": "react-native-button",
+  "name": "react-native-simple-button",
   "version": "0.1.0",
   "description": "A React Native component works like UIButton",
   "main": "button.js",
