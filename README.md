@@ -1,6 +1,12 @@
 # react-native-helight-button
 A React Native component works like UIButton
 
+## Installation
+
+```bash
+$ npm install react-native-helight-button
+```
+
 ## Example
 
 ```javascript
