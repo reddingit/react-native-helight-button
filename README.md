@@ -1,4 +1,4 @@
-# react-native-simple-button
+# react-native-helight-button
 A React Native component works like UIButton
 
 ## Example
