@@ -1,4 +1,4 @@
-# react-native-button
+# react-native-simple-button
 A React Native component works like UIButton
 
 ## Example
